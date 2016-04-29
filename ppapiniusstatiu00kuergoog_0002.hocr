@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ppapiniusstatiu00kuergoog_0002.png"; bbox 0 0 3292 5034; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1100 1494 2093 1562">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1100 1494 2093 1562">
+     <span class='ocr_line' id='line_1_1' title="bbox 1100 1494 2093 1562; baseline -0.023 1"><span class='ocrx_word' id='word_1_1' title='bbox 1100 1506 1468 1562; x_wconf 69' lang='lat' dir='ltr'>REGEWED</span> <span class='ocrx_word' id='word_1_2' title='bbox 1532 1506 1620 1554; x_wconf 68' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1683 1494 2093 1550; x_wconf 58' lang='grc' dir='ltr'>ΕΧΕΗΆΝΕΕ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1208 1738 1388 1798">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1208 1738 1388 1798">
+     <span class='ocr_line' id='line_1_2' title="bbox 1208 1738 1388 1798; baseline -0.028 1"><span class='ocrx_word' id='word_1_4' title='bbox 1208 1738 1388 1798; x_wconf 66' lang='grc' dir='ltr'>Ειῗαεε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 604 1894 2725 1946">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 604 1894 2725 1946">
+     <span class='ocr_line' id='line_1_3' title="bbox 604 1894 2725 1946; baseline -0.038 2"><span class='ocrx_word' id='word_1_5' title='bbox 604 1894 2725 1946; x_wconf 38' lang='grc' dir='ltr'>ΕΗΓ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 408 742 2794 2130">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 408 742 2794 2130">
+     <span class='ocr_line' id='line_1_4' title="bbox 408 742 2794 2130; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 408 742 2794 2130; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

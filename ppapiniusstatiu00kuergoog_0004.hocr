@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ppapiniusstatiu00kuergoog_0004.png"; bbox 0 0 3292 5034; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 181 2039 1350 2255">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 181 2039 1350 2255">
+     <span class='ocr_line' id='line_1_1' title="bbox 181 2039 1350 2149; baseline 0.002 -19"><span class='ocrx_word' id='word_1_1' title='bbox 181 2073 359 2132; x_wconf 73' lang='lat' dir='ltr'>Dissertatio</span> <span class='ocrx_word' id='word_1_2' title='bbox 384 2074 528 2132; x_wconf 61' lang='lat' dir='ltr'>referehte</span> <span class='ocrx_word' id='word_1_3' title='bbox 553 2073 707 2131; x_wconf 86' lang='lat' dir='ltr'>Theodoro</span> <span class='ocrx_word' id='word_1_4' title='bbox 732 2073 799 2131; x_wconf 81' lang='lat' dir='ltr'><strong>Birt·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 832 2076 868 2130; x_wconf 83' lang='lat' dir='ltr'>ab</span> <span class='ocrx_word' id='word_1_6' title='bbox 895 2074 1080 2148; x_wconf 84' lang='lat' dir='ltr'>amplissimo</span> <span class='ocrx_word' id='word_1_7' title='bbox 1104 2039 1350 2149; x_wconf 60' lang='lat' dir='ltr'>philosophoruffl</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 267 2179 1264 2255; baseline 0 -17"><span class='ocrx_word' id='word_1_8' title='bbox 267 2181 371 2239; x_wconf 83' lang='lat' dir='ltr'>ordine</span> <span class='ocrx_word' id='word_1_9' title='bbox 395 2181 442 2238; x_wconf 87' lang='lat' dir='ltr'>die</span> <span class='ocrx_word' id='word_1_10' title='bbox 466 2179 549 2237; x_wconf 88' lang='lat' dir='ltr'>XXV</span> <span class='ocrx_word' id='word_1_11' title='bbox 573 2180 681 2238; x_wconf 80' lang='lat' dir='ltr'><strong>mensis</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 705 2179 776 2238; x_wconf 87' lang='lat' dir='ltr'>Iulii</span> <span class='ocrx_word' id='word_1_13' title='bbox 800 2201 825 2237; x_wconf 82' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_14' title='bbox 851 2179 1065 2238; x_wconf 80' lang='lat' dir='ltr'>MDCCCCVII</span> <span class='ocrx_word' id='word_1_15' title='bbox 1090 2181 1264 2255; x_wconf 74' lang='lat' dir='ltr'><strong>adprobata.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1650 5034">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1650 5034">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1650 5034; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1650 5034; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
